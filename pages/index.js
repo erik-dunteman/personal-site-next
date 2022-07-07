@@ -1,5 +1,3 @@
-import Link from 'next/link'
-
 export default function Home() {
   return (
     <div>
@@ -24,7 +22,7 @@ export default function Home() {
       <p>... and 13 other pivots ...</p>
       <br></br>
       <h3>Technology</h3>
-      <p>I'm a self-taught developer.</p>
+      <p>I am a self-taught developer.</p>
       <p>I build backends and distributed systems.</p>
       <p>My frontends are trash.</p>
     </div>
