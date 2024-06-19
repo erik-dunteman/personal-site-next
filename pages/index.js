@@ -6,7 +6,7 @@ export default function Home() {
       <p>My online presence:</p>
       <a style={{ color: 'blue' }}  href="https://blog.erikdunteman.com/">Blog</a>
       <br></br>
-      <a style={{ color: 'blue' }} href="https://twitter.com/erikdunteman">Twitter</a>
+      <a style={{ color: 'blue' }} href="https://twitter.com/erikdunteman">Twitter</a> 
       <br></br>
       <a style={{ color: 'blue' }}  href="https://linkedin.com/in/edunteman">LinkedIn</a>
       <br></br>
